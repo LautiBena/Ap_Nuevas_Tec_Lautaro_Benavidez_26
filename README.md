@@ -10,8 +10,8 @@ El repositorio muestra todas las tareas de la materia que fueron pedidos durante
 
 ### Estructura
 
-- `-[tp01](./tp01)` - Ejemplos de Machine Learning.  
-- `-[tp02](./tp02)` - Analisis de Set de Datos.  
+- `-[tp01.md](./tp01)` - Ejemplos de Machine Learning.  
+- `-[tp02.md](./tp02)` - Analisis de Set de Datos.  
 - `...`
 
 ### Autor
