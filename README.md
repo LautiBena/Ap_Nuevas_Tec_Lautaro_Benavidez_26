@@ -1,23 +1,23 @@
 # Ap Nuevas Tec 
 
-## Task Delivery Project
+## Proyecto de Entrega de Tareas
 
-This repository contains the project submissions and deliverables for the course 'Nuevas Tecnologías' taught by Professor [Name].  
+Este repositorio contiene las entregas de proyectos y tareas para el curso 'Nuevas Tecnologías' impartido por el Profesor [Nombre].  
 
-### Description
+### Descripción
 
-The project showcases various technologies and programming paradigms that were studied throughout the course. Each task has its own corresponding directory with detailed explanations, implementations, and results.  
+El proyecto muestra varias tecnologías y paradigmas de programación que fueron estudiados durante el curso. Cada tarea tiene su propio directorio correspondiente con explicaciones detalladas, implementaciones y resultados.  
 
-### Structure
+### Estructura
 
-- `Task1/` - Description and implementation of Task 1.  
-- `Task2/` - Description and implementation of Task 2.  
+- `Tarea1/` - Descripción e implementación de la Tarea 1.  
+- `Tarea2/` - Descripción e implementación de la Tarea 2.  
 - `...`
 
-Feel free to explore the code, and don't hesitate to reach out if you have any questions.
+Siéntete libre de explorar el código, y no dudes en comunicarte si tienes alguna pregunta.
 
-### Author
+### Autor
 Lautaro Benavidez
 
-### Date
+### Fecha
 2026-03-12 14:20:10
