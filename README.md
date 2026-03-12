@@ -10,8 +10,8 @@ El repositorio muestra todas las tareas de la materia que fueron pedidos durante
 
 ### Estructura
 
-- `Tarea1/` - Ejemplos de Machine Learning.  
-- `Tarea2/` - Descripción e implementación de la Tarea 2.  
+- `tp01.md/` - Ejemplos de Machine Learning.  
+- `tp02.md/` - Analisis de Set de Datos.  
 - `...`
 
 ### Autor
