@@ -2,19 +2,17 @@
 
 ## Proyecto de Entrega de Tareas
 
-Este repositorio contiene las entregas de proyectos y tareas para el curso 'Nuevas Tecnologías' impartido por el Profesor [Nombre].  
+Este repositorio contiene las entregas de proyectos y tareas para el curso 'Nuevas Tecnologías' impartido por el Profesor Javier Guignard.  
 
 ### Descripción
 
-El proyecto muestra varias tecnologías y paradigmas de programación que fueron estudiados durante el curso. Cada tarea tiene su propio directorio correspondiente con explicaciones detalladas, implementaciones y resultados.  
+El repositorio muestra todas las tareas de la materia que fueron pedidos durante el curso. Cada tarea tiene su propio directorio correspondiente con explicaciones detalladas, implementaciones y resultados.  
 
 ### Estructura
 
-- `Tarea1/` - Descripción e implementación de la Tarea 1.  
+- `Tarea1/` - Ejemplos de Machine Learning.  
 - `Tarea2/` - Descripción e implementación de la Tarea 2.  
 - `...`
-
-Siéntete libre de explorar el código, y no dudes en comunicarte si tienes alguna pregunta.
 
 ### Autor
 Lautaro Benavidez
