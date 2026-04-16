@@ -12,7 +12,8 @@ El repositorio muestra todas las tareas de la materia que fueron pedidos durante
 
 - [tp01](./tp01.md) - Ejemplos de Machine Learning  
 - [tp02](./tp02.md) - Análisis de Set de Datos   
-- [tp03](./tp_regresion_california_03.ipynb) - Regresion California 
+- [tp03](./tp_regresion_california_03.ipynb) - Regresion California
+- [tp04](./tp04.ipynb) - Perceptrón desde Cero
 
 ### Autor
 Lautaro Benavidez
